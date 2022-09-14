@@ -1,1 +1,1 @@
-loops
+this readme is about functions
