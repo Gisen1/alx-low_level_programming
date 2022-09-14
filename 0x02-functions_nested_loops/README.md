@@ -1,1 +1,1 @@
-this readme is about functions
+bugs
